@@ -1,4 +1,4 @@
-//1
+//1-masala
 // let son = prompt("son kiritng");
 // son = parseInt(son);
 
@@ -18,7 +18,7 @@
 // }
 
 
-// 2
+// 2-masala
 // function calc(a, b) {
 //     let sum = 0;
 //     for (let i = a; i <= b; i++) {
@@ -29,7 +29,7 @@
 // console.log(calc(3, 7));
 
 
-// 3, 4
+// 3, 4-masala
 // function avarage(a, b, c) {
 //     let arr = [a, b, c];
 //     arr.sort((x, y) => x - y);
@@ -38,7 +38,7 @@
 // console.log(avarage(10, 5, 8)); 
 
 
-// 5
+// 5-masala
 // function isPalindrom(N) {
 //     let str = N.toString();
 //     let reversed = str.split('').reverse().join('');
@@ -50,22 +50,22 @@
 // console.log(isPalindrom(123456));   
 
 
-// 6
-function getDividersNumberAndSum(N) {
-    let c = 0;
-    let s = 0;
-    for (let i = 1; i <= N; i++) {
-        if (N % i === 0) {
-            c++;
-            s += i;
-        }
-    }
-    return [c, s];
-}
-console.log(getDividersNumberAndSum(12));
+// 6-masala
+// function getDividersNumberAndSum(N) {
+//     let c = 0;
+//     let s = 0;
+//     for (let i = 1; i <= N; i++) {
+//         if (N % i === 0) {
+//             c++;
+//             s += i;
+//         }
+//     }
+//     return [c, s];
+// }
+// console.log(getDividersNumberAndSum(12));
 
 
-// 7
+// 7-masala
 
 // const rightAnswers = { 1: "B", 2: "A", 3: "C", 4: "D", 5: "B", 6: "C", 7: "A", 8: "D", 9: "A", 10: "B" };
 // const myAnswers = { 1: "C", 2: "A", 3: "D", 4: "D", 5: "B", 6: "C", 7: "B", 8: "C", 9: "A", 10: "B" };
@@ -85,7 +85,7 @@ console.log(getDividersNumberAndSum(12));
 // console.log(`Incorrect answers: ${incorrect}`);
 
 
-// 8
+// 8-masala
 
 // const arr = ["Abdulaziz", "Safarmurod", "O'rol", "Jahongir"];
 
@@ -101,9 +101,9 @@ console.log(getDividersNumberAndSum(12));
 
 
 
-// 9
+// 9-masala
 // const str = "George Raymond Richard Martin";
 // const nextStr = str.split` `.map(s => s[0]).join``;
 // console.log(nextStr); 
 
-// 10
+// 10-masala
