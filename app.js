@@ -109,5 +109,5 @@
 // const juftSonlar = arr.filter(num => num % 2 === 0);
 // const toqSonlar = arr.filter(num => num % 2 !== 0);
 
-// console.log("Juftlar: ", juftSonlar);  
-// console.log("Toqlar: ", toqSonlar); 
+// console.log("Juftlar: " juftSonlar);  
+// console.log("Toqlar: " toqSonlar); 
