@@ -1,4 +1,4 @@
-//1-masala
+// 1-masala
 // let son = prompt("son kiritng");
 // son = parseInt(son);
 
@@ -60,7 +60,7 @@
 //             s += i;
 //         }
 //     }
-//     return [c, s];
+//     return [c, s];   
 // }
 // console.log(getDividersNumberAndSum(12));
 
