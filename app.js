@@ -88,7 +88,6 @@
 // 8-masala
 
 // const arr = ["Abdulaziz", "Safarmurod", "O'rol", "Jahongir"];
-
 // function arr(array) {
 //     let result = {};
 //     for (let str of array) {
